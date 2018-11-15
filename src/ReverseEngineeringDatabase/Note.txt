@@ -1,0 +1,1 @@
+﻿1 - dotnet ef dbcontext scaffold "connection string" Microsoft.EntityFrameworkCore.SqlServer -o Entities/Data -c NorthwindEntities
